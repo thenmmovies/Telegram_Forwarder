@@ -6,17 +6,16 @@ from forwarder import bot, OWNER_ID
 
 PM_START_TEXT = """
 Hey {}, I'm {}!
-I'm a bot used to forward messages from one chat to another.
-
-To obtain a list of commands, use /help.
+ I`M A Bot TO Provide Views ON Private Channels 
+ 
+Contact @Boss91104 For Plans And Pricing.
 """
 
 PM_HELP_TEXT = """
-Here is a list of usable commands:
- - /start : Starts the bot.
- - /help : Sends you this help message.
-
-just send /id in private chat/group/channel and i will reply it's id.
+Hey {}, I'm {}!
+ I`M A Bot TO Provide Views ON Private Channels 
+ 
+Contact @Boss91104 For Plans And Pricing.
 """
 
 

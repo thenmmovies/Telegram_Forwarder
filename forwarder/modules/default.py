@@ -8,14 +8,14 @@ PM_START_TEXT = """
 Hey {}, I'm {}!
  I`M A Bot TO Provide Views ON Private Channels 
  
-Contact @Boss91104 For Plans And Pricing.
+Contact @NmFajis For Plans And Pricing.
 """
 
 PM_HELP_TEXT = """
 Hey {}, I'm {}!
  I`M A Bot TO Provide Views ON Private Channels 
  
-Contact @Boss91104 For Plans And Pricing.
+Contact @NmFajis For Plans And Pricing.
 """
 
 

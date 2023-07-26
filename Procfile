@@ -1,1 +1,2 @@
-worker: python3 forwarder.py
+worker: python -m forwarder
+

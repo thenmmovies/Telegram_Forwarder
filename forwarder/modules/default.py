@@ -8,7 +8,7 @@ PM_START_TEXT = """
 Hey {}, I'm {}!
  I`M A Bot TO Provide Views ON Private Channels 
  
-Contact @NmFajis For Plans And Pricing.
+Contact @NmFajis For Buying Monthly Views Plans.
 """
 
 PM_HELP_TEXT = """
